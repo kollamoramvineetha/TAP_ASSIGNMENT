@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TAP_ASSIGNMENT/static/css/main.240a89d4.css",
+    "main.js": "/TAP_ASSIGNMENT/static/js/main.ac873895.js",
+    "static/js/453.264957f9.chunk.js": "/TAP_ASSIGNMENT/static/js/453.264957f9.chunk.js",
+    "index.html": "/TAP_ASSIGNMENT/index.html",
+    "main.240a89d4.css.map": "/TAP_ASSIGNMENT/static/css/main.240a89d4.css.map",
+    "main.ac873895.js.map": "/TAP_ASSIGNMENT/static/js/main.ac873895.js.map",
+    "453.264957f9.chunk.js.map": "/TAP_ASSIGNMENT/static/js/453.264957f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.240a89d4.css",
+    "static/js/main.ac873895.js"
+  ]
+}
