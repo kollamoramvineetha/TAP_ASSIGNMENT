@@ -1,0 +1,18 @@
+.productsCard {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 10px;
+    flex-direction: row;
+  }
+  li {
+    list-style: none;
+  }
+  .LoadingContainer {
+    display: flex;
+    margin-top: 500px;
+  }
+  @media screen and (max-width:601px) {
+    .productsCard{
+        margin-right: 28px;
+    }
+  }

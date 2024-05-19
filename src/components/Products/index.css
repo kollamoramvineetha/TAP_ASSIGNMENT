@@ -1,0 +1,35 @@
+.product-sections {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 90%;
+    max-width: 1110px;
+  }
+  .listCard {
+    display: flex;
+    height: 300px;
+    width: 300px;
+    margin-top: 60px;
+    color: black;
+    padding: 20px;
+    padding-right: 10px;
+    border-radius: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: auto;
+  }
+  .detailsCard {
+    display: flex;
+    flex-direction: column;
+  }
+  .listCardImage {
+    height: 150px;
+    width: 150px;
+    margin-left: 2px;
+  }
+  .listPara {
+    color: black;
+    margin-top: 0px;
+  }
